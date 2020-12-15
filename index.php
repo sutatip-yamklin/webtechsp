@@ -10,7 +10,7 @@
 
 <p>Ayo, listen up! No matter what they say, no matter what they do We gon' resonate:</p>
 
-<a href="https://www.youtube.com/watch?v=0IpbvXVbBYA">Resonance</a><br>
-        <img src="nct2020.jpg">
+<a href="https://www.youtube.com/watch?v=0IpbvXVbBYA">Resonance<br>
+        <img src="nct2020.jpg"></a>
     </body>
 </html>
