@@ -11,6 +11,6 @@
 <p>Ayo, listen up! No matter what they say, no matter what they do We gon' resonate:</p>
 
 <a href="https://www.youtube.com/watch?v=0IpbvXVbBYA">Resonance<br>
-        <img src="nct2020.jpg"></a>
+        <img src="nct2020.jpg" alt="nct2020"></a>
     </body>
 </html>
